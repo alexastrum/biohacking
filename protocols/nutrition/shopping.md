@@ -169,7 +169,7 @@ Non-perishables that are not present at Costco or that are not needed in bulk.
 
 - (Temporarily) Tomatoes [^viome]
 
-### Additives
+### Additives to avoid
 
 - MSG (hydrolyzed vegetable protein) frozen foods, canned soups, and snacks [^viome-tips]
 - Titanium Dioxide (white food coloring) [^viome-tips]
@@ -181,7 +181,7 @@ Non-perishables that are not present at Costco or that are not needed in bulk.
 - Sodium Nitrite and Sodium Nitrate, found in processed meats (preservatives) [^viome-tips]
 - All artificial sweeteners (Aspartam, NutraSweet, Sucralose, Splenda, Saccharin, Acesulfame K, Neotame, Advantame) [^bulletproof]
 
-### Conventional food
+### Conventional food to avoid
 
 - Peanuts [^bulletproof] [^viome-tips]
 - Soy, most **vegetable proteins** (Soy Protein Isolate, Tofu, Tempeh, Seitain) [^bulletproof]
@@ -198,8 +198,7 @@ Non-perishables that are not present at Costco or that are not needed in bulk.
 - **All sweet drinks** (including "sport" drinks), fruit juice [^bulletproof] [^function]
 - **All alcohols** [^bulletproof] [^function]
 - Most **cheap fats** (non-grass-fed Lard, Hydrogenated Vegetable Oil, Canola Oil, Soybean Oil, Corn Oil, Cottonseed Oil, Safflower Oil, Sunflower Oil, Rice Bran Oil, Peanut Oil, Sesame Oil, Margarine, Shortening, Vegan Butter) [^bulletproof] [^function]
-
-- Beans, // Peas, Lentils, Soy, Peanuts, Cashews, Pistachios, Walnuts, Brazil Nuts, Pecans, Hazelnuts, Chestnuts, Pine Nuts, Poppy Seeds, Sesame Seeds, Chia Seeds, Flax Seeds, Hemp Seeds, Pumpkin Seeds, Sunflower Seeds, Millet, Amaranth, Buckwheat, Sorghum, Teff, Tapioca, Arrowroot, Cassava, Yucca, Yams, Sweet Potatoes, Potatoes, Breadfruit, Plantains, Corn, Rice, Quinoa, Oats, Barley, Rye, Triticale, Kamut, Wheat, Spelt, Bulgur, Farro, Einkorn, Emmer, Durum, Cornstarch, Cornmeal, Corn Syrup, Corn Oil, Corn Bran, Corn Flour, Corn Grits, Corn Germ, Corn Masa, Corn Gluten, Corn Sugar, Corn Sweetener, Corn Dextrin, Corn Maltodextrin, Corn Malt, Corn Starch, Corn Vinegar, Corn Alcohol, Corn Extract, Corn Protein, Corn Glycerides, Corn Glycerin, Corn Glycerol, Corn Glycerol, Corn Glycerides, Corn Glycerides, Corn Glyc
+- Other Beans
 
 [^bulletproof]: According to Bulletproof Diet Roadmap
 [^viome]: According to personal [VIOME test](https://viomehq.sjv.io/alexastrum) results
