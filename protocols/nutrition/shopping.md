@@ -1,6 +1,6 @@
-# Bulletproof Diet Shopping List
+# Shopping List
 
-Products sorted descending from most nutrient-densd.
+Products sorted descending from most nutrient-dense.
 
 ## Local organic farm
 
