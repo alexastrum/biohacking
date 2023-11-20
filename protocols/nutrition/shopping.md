@@ -6,7 +6,6 @@ Products sorted descending from most nutrient-dense.
 
 Primary source for pastured meats, diary, seasonal fresh food.
 
-- [99% Dark Chocolate](https://chocosoltraders.com/collections/coffee-drinkingchocolate/products/99-eating-chocolate-stay-home-stock-up-bulk-deal) [^bulletproof]
 - Garlic [^chinese-garlic] [^viome]
 - **Grass-Fed** [^grass-fed] [Beef](https://bluecowdelivery.ca/product-category/the-larder/) [^bulletproof] [^function]
 - **Grass-Fed** [^grass-fed] Lamb [^bulletproof] [^function]
@@ -163,6 +162,7 @@ Non-perishables that are not present at Costco or that are not needed in bulk.
 
 ## Other sources
 
+- [99% Dark Chocolate](https://chocosoltraders.com/collections/coffee-drinkingchocolate/products/99-eating-chocolate-stay-home-stock-up-bulk-deal) [^bulletproof]
 - [Full-fat A2 Milk](https://www.a2milk.ca/products/3-25-homogenized-milk) [^a2-milk]
 
 ## Avoid
