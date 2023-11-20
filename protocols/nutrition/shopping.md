@@ -198,7 +198,7 @@ Non-perishables that are not present at Costco or that are not needed in bulk.
 - **All sweet drinks** (including "sport" drinks), fruit juice [^bulletproof] [^function]
 - **All alcohols** [^bulletproof] [^function]
 - Most **cheap fats** (non-grass-fed Lard, Hydrogenated Vegetable Oil, Canola Oil, Soybean Oil, Corn Oil, Cottonseed Oil, Safflower Oil, Sunflower Oil, Rice Bran Oil, Peanut Oil, Sesame Oil, Margarine, Shortening, Vegan Butter) [^bulletproof] [^function]
-- Other Beans
+- Other Beans [^bulletproof]
 
 [^bulletproof]: According to Bulletproof Diet Roadmap
 [^viome]: According to personal [VIOME test](https://viomehq.sjv.io/alexastrum) results
