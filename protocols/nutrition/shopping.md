@@ -6,7 +6,6 @@ Products sorted descending from most nutrient-dense.
 
 Primary source for pastured meats, diary, seasonal fresh food.
 
-- Garlic [^chinese-garlic] [^viome]
 - **Grass-Fed** [^grass-fed] [Beef](https://bluecowdelivery.ca/product-category/the-larder/) [^bulletproof] [^function]
 - **Grass-Fed** [^grass-fed] Lamb [^bulletproof] [^function]
 - **Free-Range** [^grass-fed] Poultry (Duck or Goose [^bulletproof], Turkey or Chicken)
@@ -17,7 +16,8 @@ Primary source for pastured meats, diary, seasonal fresh food.
 - [**Organic** Apples](https://directory.wellington.ca/Home/View/apple-creek-farm) [^dirty-dozen] [^viome]
 - [**Organic Non-Homogenized** Milk](https://harmonyorganic.ca/unhomogenized-organic-nature-s-whole-milk-4-litre-bag/product/28)
 - Goat Milk [^goat-milk]
-- Jerusalem Artichoke [^viome]
+
+- Garlic [^chinese-garlic] [^viome]
 - All seasonal vegetables, fruits, and produce from the Costco list (when in season)
 
 ## Costco
