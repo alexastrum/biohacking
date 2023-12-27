@@ -43,4 +43,4 @@
 
 9. Portion and take **supplements**. Measure biomarkers. <5 minutes
 
-10. **Journal** and plan the day 5-10 minutes
+10. **Journal** and plan the day. 5-10 minutes
