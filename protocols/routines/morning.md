@@ -2,12 +2,20 @@
 
 40 to 90 minutes.
 
-1. First thing: **Make bed** and tidy up the room. Open courtains. <5 minutes.
+1. **Make bed** <5 minutes.
+
+   - First thing after waking up.
+   - Never delay or skip this.
+     Can delay/skip any of the other tasks based on logistics.
+   - Open courtains and/or max out the lights.
+   - Tidy up the room as needed.
+
 2. **Charcoal** detox. 1 minute.
 
    - 1 capsule of activated charcoal per 10kg of body weight.
 
 3. **Toilet business** <5 minutes.
+
 4. **Cold shower** 5-15 minutes under cold tap (generally 5 - 20 deg Celsius).
    If sick or wide-awaken, gentler contrast shower, cold (20 seconds+) - hot (as long as needed) - cold (20 seconds+).
 
