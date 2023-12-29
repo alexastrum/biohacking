@@ -7,5 +7,5 @@ Usually skip breakfast. If I don't, it is a combination of these:
   - What is available, if I'm not cooking
 - Veggies
 - Sides: Avocado, smoked fish, olives, nuts, (high fat non-moldy) cheese
-- [Bulletproof tea/coffee](../routine/morning.md)
+- [Bulletproof tea/coffee](../routines/morning.md)
 - Desert: Sugar-free (erythrol) or 90%+ dark chocolate, (optionally) with nuts (excl. peanuts) and/or coconut pulp.
