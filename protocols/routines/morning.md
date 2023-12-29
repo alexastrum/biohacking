@@ -40,15 +40,22 @@
    - Prepare breakfast and/or pack lunch.
    - Get them out of the house on time.
 
-8. **Bulletproof tea**. <10 minutes
+8. **Bulletproof Tea**. <10 minutes
+
+My own original drink, inspired by [Dave's Bulletproof Coffee](https://www.bulletproof.com/recipes/bulletproof-diet-recipes/bulletproof-coffee-recipe/).
 
    - 1tbs MCT or coconut oil.
    - (Up to) 1ts Butter or ghee.
-   - Tea or coffee:
+   - One of:
      - Tea: Green leaf or matcha.
+     - Ketogenic powder + flavour.
      - Coffee: Espresso or french press.
-   - (Optionally) 100% dark chocolate or [Jaguar chocolate](https://chocosoltraders.com/collections/jaguar-chocolate).
-   - (Optionally) [Breakfast](../nutrition/brunch.md)
+   - Optional toppings:
+     - Collagen or [BCAA](https://amzn.to/41ENnig).
+     - 100% dark chocolate or [Jaguar chocolate](https://chocosoltraders.com/collections/jaguar-chocolate).
+     - Fiber.
+   - Shaken or blended.
+   - (Optionally) with [Breakfast](../nutrition/brunch.md)
 
 9. Portion and take **supplements**. Measure biomarkers. <5 minutes
 
