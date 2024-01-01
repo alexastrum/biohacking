@@ -32,7 +32,7 @@ Personal notes while performing the action items in the book, adding action item
 - Stewart D. Friedman, _Leading the Life You Want: Skills for_
   _Integrating Work and Life_
 
-### Law 2: Never Discover Who You Are
+## Law 2: Never Discover Who You Are
 
 Action Items
 
@@ -50,21 +50,12 @@ Action Items
   my primal inclination:
 - Now do what it takes to shift your ratio to 0:10:90.
 
-**Recommended Listening**
-
-- Brendon Burchard, “Confidence, Drive & Power,” _Bulletproof_
-  _Radio_ , episode 190
-- Brendon Burchard, “Hacking High Performers & Productivity
-  Tr ick s,” _Bulletproof Radio_ , episode 262
-- Robert Greene, “The 48 Laws of Power,” _Bulletproof Radio_ , episode 380
-- Dan Sullivan, “Think About Your Thinking: Lessons in
-  Entrepreneurship,” _Bulletproof Radio_ , episode 485
-
-**Recommended Reading**
+### Law 2: Audiobooks
 
 - Brendon Burchard, _High Performance Habits: How Extraordinary_
   _People Become That Way_
-- Robert Greene, _The 48 Laws of Power_
+
+- Free: [Robert Greene, The 48 Laws of Power](https://www.audible.ca/pd/The-48-Laws-of-Power-Audiobook/B072FF31RH)
 
 ### Law 3: When You Say You’ll Try, You Are Lying
 
@@ -1230,7 +1221,7 @@ Action Items
   _Unconventional Laws to Redefine Your Life and Succeed on Your_
   _O w n Te r m s_
 
-### Law 39: Hijack Your Body’s Attention
+## Law 39: Hijack Your Body’s Attention
 
 Action Items
 
@@ -1240,17 +1231,10 @@ Action Items
 - Practice a “balancing breath” for a few minutes a day, ideally
   before meditating.
 
-**Recommended Listening**
+### Law 39: Audiobooks
 
-- “Climb Everest in a T- Shirt and Shorts. Survive Submersion in
-  Freezing Water for Hours. Wim Hof Tells You How He Did It!,”
-  _Bulletproof Radio_ , episode 403
-- Emily Fletcher, “Greater Sex, Better Sleep with Ziva
-  Meditation,” _Bulletproof Radio_ , episode 224
+- 1 credit: [Wim Hof Method](https://amzn.to/3NGLnjG)
 
-**Recommended Reading**
-
-- Wim Hof Method Creates Radiant, Longterm Health\_
 - Scott Carney, _What Doesn’t Kill Us: How Freezing Water,_
   _Extreme Altitude, and Environmental Conditioning Will Renew_
   _Our Lost Evolutionary Strength_
