@@ -2,6 +2,8 @@
 
 Products sorted descending from most nutrient-dense.
 
+Inspiration: [Bulletproof Diet Roadmap](https://daveasprey.com/wp-content/uploads/2021/02/Dave-Asprey-Diet-and-Fasting-Roadmap-2021.pdf)
+
 ## Local organic farm
 
 Primary source for pastured meats, diary, seasonal fresh food.
