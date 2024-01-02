@@ -1,14 +1,19 @@
 # Fitness routine
 
+Exercise promotes muscles' production of lactate, a metabolic byproduct that increases the production of BDNF (brain-derived neurotrophic factor), a crucial player in brain and gut health.
+
+Other lifestyle factors, such as hot baths, sauna use, and meditation, and
+dietary components, such as omega-3 fatty acids, zinc, and dietary fiber, also contribute to BDNF production.
+
 ## Morning
 
 Every day, <10 mins.
 
 See [morning routine](morning.md).
 
-# Sun Salutation
+## Sun Salutation
 
-<10 minutes Every day. 
+<10 minutes Every day.
 
 - Ideally in nature (beach, park, backyard garden).
 - Lightly dressed (including in winter and during light rain/snowing).
@@ -23,13 +28,14 @@ Any combination of the following:
 
 - <5m warmup
 - HIIT
+
   - <30m HIIT or Tabata lesson on Peton bike.
     Focus on hittinh VOMax
 
   - <10m resistenance traing circuit on Keiser.
     Focus on hitting 10 reps at 90% power.
 
-  - <20m wall climbing. 
+  - <20m wall climbing.
     Focus on max vertical speed, until effectively slipping off.
 
   - <10m Light equipment exercise: jumping rope, pull-ups, battle rope.
