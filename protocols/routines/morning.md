@@ -42,7 +42,7 @@
 
 8. **Bulletproof Tea**. <10 minutes
 
-My own original drink, inspired by [Dave's Bulletproof Coffee](https://www.bulletproof.com/recipes/bulletproof-diet-recipes/bulletproof-coffee-recipe/).
+   My own original drink, inspired by [Dave's Bulletproof Coffee](https://www.bulletproof.com/recipes/bulletproof-diet-recipes/bulletproof-coffee-recipe/).
 
    - 1tbs MCT or coconut oil.
    - (Up to) 1ts Butter or ghee.
@@ -55,7 +55,7 @@ My own original drink, inspired by [Dave's Bulletproof Coffee](https://www.bulle
      - 100% dark chocolate or [Jaguar chocolate](https://chocosoltraders.com/collections/jaguar-chocolate).
      - Fiber.
    - Shaken or blended.
-   - (Optionally) with [Breakfast](../nutrition/brunch.md)
+   - (Optionally) with [Breakfast](../nutrition/breakfast.md)
 
 9. Portion and take **supplements**. Measure biomarkers. <5 minutes
 
