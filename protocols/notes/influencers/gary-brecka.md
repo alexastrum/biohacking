@@ -1,4 +1,4 @@
-# Garry Brecka
+# Gary Brecka
 
 A friend suggested me to take a look at: <https://www.instagram.com/garybrecka>
 
