@@ -89,7 +89,7 @@ I excluded products that I have personal allergies or sensitivities to.
 ### Dairy
 
 - **Yellow** Butter [^grass-fed-butter] (grass-fed, organic, European-style, or conventional)
-- **Organic** Eggs [^viome]
+- (**Free range** or **pasture raised**) **organic** Eggs [^viome] [^bulletproof]
 - [Pecorino Romano Cheese](https://thekittchen.com/pecorino-romano/#What_is_Pecorino_Romano) (from **Grass-Fed Sheep Milk**) [^bulletproof]
 - Coconut Milk
 - European Union Cheese (from **Grass-Fed Cow Milk**)
