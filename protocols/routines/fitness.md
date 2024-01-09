@@ -7,13 +7,13 @@ dietary components, such as omega-3 fatty acids, zinc, and dietary fiber, also c
 
 ## Morning
 
-Every day, <10 mins.
+Most days, <10 mins.
 
 See [morning routine](morning.md).
 
 ## Sun Salutation
 
-<10 minutes Every day.
+Most days, <10 mins.
 
 - Ideally in nature (beach, park, backyard garden).
 - Lightly dressed (including in winter and during light rain/snowing).
@@ -22,7 +22,7 @@ See [morning routine](morning.md).
 
 ## Gym
 
-3-4 days/week. Keeping them as short as possible, while focusing on getting close to VOMax.
+1-4 days/week. Keeping them as short as possible, while focusing on getting close to VOMax.
 
 Any combination of the following:
 
@@ -51,7 +51,7 @@ Any combination of the following:
 
 ## Water sports
 
-Every day, if near an appropriate body of water. ~60 days / year ATM.
+Most days, if near an appropriate body of water. ~60 days / year ATM. Any of the following:
 
 - <5m Swim
 - 10-60m Surfing
