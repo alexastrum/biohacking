@@ -88,7 +88,8 @@ Bellow are my actions aligned with the book.
 9. Unfollow anyone that leaves you feeling bad
 10. Set a time limit for consuming the news
 11. Keep (bad) news in perspective
-12. Don’t try to change other people’s minds or bring them around to your way of thinking
+12. Don’t try to change other people’s minds or
+    bring them around to your way of thinking
 
 ## CREATE MORE BALANCE
 
