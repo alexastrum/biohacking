@@ -25,14 +25,14 @@
    - Wash face with soap or spacialized face wash.
    - Wash body parts prone to bacteria / fungus with soap. Massage and/or scrub feet.
 
-5. **Positive affirmations** / meditation. In front of the mirror, or outdoors. <10 minutes.
-
-6. **Exercise** <5 minutes.
+5. **Exercise** <5 minutes.
 
    - 5-20 finger top pushups.
    - 5-20 clapping pushups.
    - 5-20 single leg squats with jumps, on each leg.
    - Stretching and/or hanging.
+
+6. **Positive affirmations** / meditation / silent walk. Outdoors. <10 minutes.
 
 7. Help family with their morning routine. <20 minutes.
 
@@ -47,13 +47,13 @@
    - 1tbs MCT or coconut oil.
    - (Up to) 1ts Butter or ghee.
    - One of:
-     - Tea: Green leaf or matcha.
-     - Ketogenic powder + flavour.
-     - Coffee: Espresso or french press.
+   - Tea: Green leaf or matcha.
+   - Ketogenic powder + flavour.
+   - Coffee: Espresso or french press.
    - Optional toppings:
-     - Collagen or [BCAA](https://amzn.to/41ENnig).
-     - 100% dark chocolate or [Jaguar chocolate](https://chocosoltraders.com/collections/jaguar-chocolate).
-     - Fiber.
+   - Collagen or [BCAA](https://amzn.to/41ENnig).
+   - 100% dark chocolate or [Jaguar chocolate](https://chocosoltraders.com/collections/jaguar-chocolate).
+   - Fiber.
    - Shaken or blended.
    - (Optionally) with [Breakfast](../nutrition/breakfast.md)
 

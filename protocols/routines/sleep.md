@@ -29,6 +29,9 @@ Observed structure for each of my 1:30h sleep cycles (duration => type):
 
 ## Ideal sleep environment
 
+- Dark room courtains, [sleep mask](https://amzn.to/47DdAzm) when traveling
+- Earplugs: [foam](https://amzn.to/3vv4Aih) or [silicone](https://amzn.to/3HeV19N)
+- Apple Watch or Aura ring for tracking
 - 4-8% Incline
 - Single memory foam pillow (no pillow if the ideal pillow is not available)
 - Comfortable foam matress (yoga mat, when camping; no coils, air matrasses, or pillow-tops)

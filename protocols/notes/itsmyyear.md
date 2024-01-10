@@ -28,14 +28,20 @@ Bellow are my actions aligned with the book.
    - Since Jan 4, 2024, journaling is part of [morning routine](../routines/morning.md),
      though often I do this later in the day.
 
-### [ ] Jan 10: Slow down and switch off
+### [x] Jan 10: Slow down and switch off
 
-5. Focus on doing one thing at a time
-6. Go for a walk (or run) in silence
-7. Define a no-phone zone in your home
-8. Linger at the table for fifteen minutes after dinner
+1. Focus on doing one thing at a time
 
-### Be there when you’re there
+   - Exception: Listening to Audible whenever not socializing or working intelectually
+
+2. Go for a walk (or run) in silence
+
+   - Incorporated in [morning routine](../routines/morning.md)
+
+3. Define a no-phone zone in your home
+4. Linger at the table for fifteen minutes after dinner
+
+### [ ] Jan 11: Be there when you’re there
 
 9. Don’t try to do something else while you’re speaking with someone
 10. Stand still when someone wants your attention

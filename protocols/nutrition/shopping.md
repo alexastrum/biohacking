@@ -9,9 +9,11 @@ Inspiration: [Bulletproof Diet Roadmap](https://daveasprey.com/wp-content/upload
 Primary source for pastured meats, diary, seasonal fresh food.
 
 - **Grass-Fed** [^grass-fed] [Beef](https://bluecowdelivery.ca/product-category/the-larder/) [^bulletproof] [^function]
+  - Bone for broth [^jenvel]
+  - Liver [^jenvel]
 - **Grass-Fed** [^grass-fed] Lamb [^bulletproof] [^function]
 - **Free-Range** [^grass-fed] Poultry (Duck or Goose [^bulletproof], Turkey or Chicken)
-- **Free-Range** Eggs [^viome] [^bulletproof]
+- **Free-Range** Eggs [^viome] [^bulletproof] [^jenvel]
 - [**Pastured** Bacon](https://laeppleorganic.ca/pork/) [^bacon] [^function]
 - **Pastured** Liver [^function]
 - Fish (locally caught)
@@ -39,7 +41,7 @@ I excluded products that I have personal allergies or sensitivities to.
 - Sweet Peas [^clean-15] [^function]
 - Cucumbers [^bulletproof]
 - Cauliflower [^bulletproof]
-- Broccoli [^bulletproof]
+- Broccoli [^bulletproof] [^jenvel]
 - Zucchini [^bulletproof]
 - Squash [^bulletproof]
 - Cellery [^bulletproof]
@@ -55,10 +57,11 @@ I excluded products that I have personal allergies or sensitivities to.
 
 - **Organic[^dirty-dozen]** Bell Peppers[^viome]
 - Eggplant
+- Tomatoes [^jenvel] - avoid for a month every few months due to viral load [^viome]
 
 #### Fruits
 
-- Avocados [^bulletproof] [^clean-15] [^function]
+- Avocados [^bulletproof] [^clean-15] [^function] [^jenvel]
 - Lemon [^bulletproof] [^function]
 - Lime [^bulletproof]
 - Guava [^viome] [^function]
@@ -103,7 +106,8 @@ I excluded products that I have personal allergies or sensitivities to.
 - Pecan Nuts [^bulletproof]
 - Chestnuts [^bulletproof]
 - Sunflower Seeds [^bulletproof]
-- Chia Seeds [^function]
+- Chia Seeds [^function] [^jenvel]
+
 - Flaxseeds [^function]
 - Pine Nuts
 
@@ -111,7 +115,7 @@ I excluded products that I have personal allergies or sensitivities to.
 
 - [Coconut Oil](https://www.costco.ca/kirkland-signature-organic-virgin-coconut-oil%2C-2.3-kg.product.100416822.html) [^bulletproof] [^viome]
 - [Avocado Oil](https://www.costco.ca/chosen-foods-avocado-oil-spray%2c-2-x-382-g.product.100774350.html) [^bulletproof] [^viome]
-- **Extra Virgin** Olive Oil [^bulletproof]
+- **Extra Virgin** Olive Oil [^bulletproof] [^jenvel] [^blueprint]
 - MCT Oil [^bulletproof]
 
 ### Snacks, Sweets, and Baking
@@ -130,12 +134,13 @@ I excluded products that I have personal allergies or sensitivities to.
 - [Alkaline Water](https://amzn.to/3swkHes) [^alkaline]
 - **Filtered** Tap Water
 
-### Spices and Herbs
+### Spices, Herbs and seasoning
 
 - Black Pepper [^viome]
 - Cinaamon [^viome]
 - Himalayan Pink Salt [^bulletproof]
 - Basil, Thyme, Parsley [^function]
+- Apple Vinegar [^bulletproof]
 
 ### Supplements at Costco
 
@@ -169,8 +174,6 @@ Non-perishables that are not present at Costco or that are not needed in bulk.
 
 ## Avoid
 
-- (Temporarily) Tomatoes [^viome]
-
 ### Additives to avoid
 
 - MSG (hydrolyzed vegetable protein) frozen foods, canned soups, and snacks [^viome-tips]
@@ -202,6 +205,8 @@ Non-perishables that are not present at Costco or that are not needed in bulk.
 - Most **cheap fats** (non-grass-fed Lard, Hydrogenated Vegetable Oil, Canola Oil, Soybean Oil, Corn Oil, Cottonseed Oil, Safflower Oil, Sunflower Oil, Rice Bran Oil, Peanut Oil, Sesame Oil, Margarine, Shortening, Vegan Butter) [^bulletproof] [^function]
 - Other Beans [^bulletproof]
 
+---
+
 [^bulletproof]: According to Bulletproof Diet Roadmap
 [^viome]: According to personal [VIOME test](https://viomehq.sjv.io/alexastrum) results
 [^viome-tips]: According to general VIOME recommendation
@@ -220,3 +225,5 @@ Non-perishables that are not present at Costco or that are not needed in bulk.
 [^metformin]: [Metformin Is a Putative Anti-Aging Drug](https://pubmed.ncbi.nlm.nih.gov/34421827/)
 [^vit-c]: [What is Vitamin C](https://www.bulletproof.com/supplement-articles/what-is-vitamin-c-benefits/)
 [^mitocondria]: [Understanding D-Ribose and Mitochondrial Function](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5959283/)
+[^jenvel]: [Protocol](https://jenvel.co/) by @itsJenvel, 4th place on on <https://rejuvenationolympics.com>
+[^blueprint]: [Blueprint by Bryan Johnson](https://cdn.shopify.com/s/files/1/0772/3129/2701/files/Product_Nutrition_Facts.pdf?v=1704325409)
