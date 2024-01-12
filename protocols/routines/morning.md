@@ -25,22 +25,25 @@
    - Wash face with soap or spacialized face wash.
    - Wash body parts prone to bacteria / fungus with soap. Massage and/or scrub feet.
 
-5. **Exercise** <5 minutes.
+5. **Positive affirmations** / meditation / keggel exercise.
+   In front of the mirror, or outdoors. <10 minutes.
+
+6. **Exercise** <5 minutes.
 
    - 5-20 finger top pushups.
    - 5-20 clapping pushups.
    - 5-20 single leg squats with jumps, on each leg.
    - Stretching and/or hanging.
 
-6. **Positive affirmations** / meditation / silent walk. Outdoors. <10 minutes.
+7. **Positive affirmations** / meditation / silent walk. Outdoors. <10 minutes.
 
-7. Help family with their morning routine. <20 minutes.
+8. Help family with their morning routine. <20 minutes.
 
    - Wake up kids.
    - Prepare breakfast and/or pack lunch.
    - Get them out of the house on time.
 
-8. **Bulletproof Tea**. <10 minutes
+9. **Bulletproof Tea**. <10 minutes
 
    My own original drink, inspired by [Dave's Bulletproof Coffee](https://www.bulletproof.com/recipes/bulletproof-diet-recipes/bulletproof-coffee-recipe/).
 
@@ -57,6 +60,6 @@
    - Shaken or blended.
    - (Optionally) with [Breakfast](../nutrition/breakfast.md)
 
-9. Portion and take **supplements**. Measure biomarkers. <5 minutes
+10. Portion and take **supplements**. Measure biomarkers. <5 minutes
 
-10. **Journal** and plan the day. <10 minutes
+11. **Journal** and plan the day. <30 minutes
