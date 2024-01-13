@@ -1,10 +1,24 @@
 # This year will be different
 
-[Audible (free)](https://www.amazon.com/This-Year-Will-Different-Regardless/dp/B09LRHWK41)
+[Audible (free in Canada)](https://www.amazon.com/This-Year-Will-Different-Regardless/dp/B09LRHWK41)
 
-Great, short, actionable book with downloadable PDF. Use hastag #itsmyyear.
+Great, short, actionable book with downloadable PDF.
+Use hastag #itsmyyear if sharing on X.
 
-Bellow are my actions aligned with the book.
+How I'm using this book (1 month sprint):
+
+1. Find an accountability partner.
+2. Print the workbook PDF.
+3. Listen to **one subsection (with 4 actionable items each) a day** and fill
+   in the actionable items for the day:
+
+   1. Check off what's done.
+   2. Set an end date for the remaining actions and start now.
+   3. Review previous items and check off what's done.
+
+4. When done, celebrate success and take a break before starting the next sprint!
+
+---
 
 ## BE PRESENT
 
@@ -12,12 +26,12 @@ Bellow are my actions aligned with the book.
 
 1. Start each day by deciding that ‘today is going to be a good day’
 
-   - Positive affirmations are part of my [morning routine](../routines/morning.md),
+   - Positive affirmations are part of my [morning routine](../protocols/routines/morning.md),
      added as part of [Game Changers](./game-changers.md)
 
 2. Actively look for something every day that gives you joy or makes you smile
 
-   - [ ] Do this as part of sun salutations from [fitness routine](../routines/fitness.md)
+   - [ ] Do this as part of sun salutations from [fitness routine](../protocols/routines/fitness.md)
 
 3. Spend ten minutes doing something just for you
 
@@ -25,10 +39,10 @@ Bellow are my actions aligned with the book.
 
 4. Consciously capture a moment from each day
 
-   - Since Jan 4, 2024, journaling is part of [morning routine](../routines/morning.md),
+   - Jan 4: journaling is part of [morning routine](../protocols/routines/morning.md),
      though often I do this later in the day.
 
-### [x] Jan 10: Slow down and switch off
+### Jan 10: Slow down and switch off
 
 1. Focus on doing one thing at a time
 
@@ -39,13 +53,16 @@ Bellow are my actions aligned with the book.
    - Incorporated in [morning routine](../routines/morning.md)
 
 3. Define a no-phone zone in your home
-4. Linger at the table for fifteen minutes after dinner
 
-### [ ] Jan 11: Be there when you’re there
+   - When in bed, when at the dinner table.
 
-9. Don’t try to do something else while you’re speaking with someone
-10. Stand still when someone wants your attention
-11. Be honest when you’re not able to pay attention
+4. [ ] Linger at the table for fifteen minutes after dinner
+
+### Jan 13: Be there when you’re there
+
+9. [ ] Don’t try to do something else while you’re speaking with someone
+10. [ ] Stand still when someone wants your attention
+11. [ ] Be honest when you’re not able to pay attention
 12. Define your quality time and schedule it in.
 
 ## FOCUS ON WHAT MATTERS

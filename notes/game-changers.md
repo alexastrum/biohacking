@@ -1,8 +1,23 @@
 # Game Changers by Dave Asprey
 
-Personal notes while performing the action items in the book, adding action items form one Law each day.
+[Audible](https://amzn.to/48TZ9HW) with workbook PDF for printing.
 
-[Audible (1 credit)](https://www.audible.ca/pd/Game-Changers-Audiobook/B07GZZQ4T9) with workbook PDF for printing.
+Personal notes while performing the action items in the book,
+adding action items form one Law each day.
+
+How I used this book (2 months sprint):
+
+1. Find an accountability partner.
+2. Print the workbook PDF.
+3. Listen to **one law a day** and fill in the actionable items for the day:
+   1. Check off what's done.
+   2. Research linked resources and decide whether they are worth trying.
+   3. Set a date range and detailed plan for the selected actions and resources.
+   4. Add linked books to a reading list. Many of them are free on Audible.
+4. **Weekly review** of previous actions and results. Adjust dates and plans as needed.
+5. When done, celebrate success and take a break before starting the next sprint!
+
+---
 
 ## Law 1: Use the Power of No
 

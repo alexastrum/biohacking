@@ -20,9 +20,13 @@ Lower LDL and ApoB, increase HDL, and improve Omega3/Omega6 ratio.
 
 TODO
 
-## Laeky gutg
+## Laeky gut
 
 - L- Glutamine ($23) from Pure Encapsalations to prevent or heal intestinal permeability/leaky gut [^jenvel]
+
+## Tooth health
+
+- D3 [1000IU promotes tooth remineralization](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9233525/)
 
 ## Herbs and spices
 
