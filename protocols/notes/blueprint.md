@@ -1,4 +1,21 @@
-# Blueprint
+# Blueprint by Bryan Johnson
+
+- Well known longevity influencer.
+- Used a decent, but restrictive (due to it being a vegan) meal plan.
+  Higher on carbs than I'd like.
+- A bit on the expensive side.
+  - The EVOO he's selling is overpriced.
+  - Supplements seem to be market rate.
+- <https://rejuvenationolympics.com> is a cool idea.
+- Great Discord community
+- Great materials that need personalization.
+
+## Self Experimentation Study
+
+I signed up to [his $1,000 3-months study](https://blueprint.bryanjohnson.com/pages/blueprint-self-experimentation-study),
+but would only recommend it to people who are serious about biohacking.
+Otherwise, for US$333/month one can get better bang for the buck using a
+personalized simpler diet + supplements + lifestyle protocal.
 
 ## Supplements
 
