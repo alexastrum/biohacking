@@ -1,6 +1,8 @@
 # Tools of the Titans by Tim Ferriss
 
-Advanced book. Good listen after going through a protocol for maximizing metabolic performance.
+Advanced book.
+
+Good listen after going through a protocol for maximizing metabolic performance.
 
 I'm using all 3 versions:
 
