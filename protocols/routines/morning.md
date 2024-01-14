@@ -50,13 +50,13 @@
    - 1tbs MCT or coconut oil.
    - (Up to) 1ts Butter or ghee.
    - One of:
-   - Tea: Green leaf or matcha.
-   - Ketogenic powder + flavour.
-   - Coffee: Espresso or french press.
+     - Tea: Green leaf or matcha.
+     - Ketogenic powder + flavour.
+     - Coffee: Espresso or french press.
    - Optional toppings:
-   - Collagen or [BCAA](https://amzn.to/41ENnig).
-   - 100% dark chocolate or [Jaguar chocolate](https://chocosoltraders.com/collections/jaguar-chocolate).
-   - Fiber.
+     - Collagen or [BCAA](https://amzn.to/41ENnig).
+     - 100% dark chocolate or [Jaguar chocolate](https://chocosoltraders.com/collections/jaguar-chocolate).
+     - Fiber.
    - Shaken or blended.
    - (Optionally) with [Breakfast](../nutrition/breakfast.md)
 
