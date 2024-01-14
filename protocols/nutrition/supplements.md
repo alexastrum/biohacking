@@ -2,7 +2,7 @@
 
 This is a list of supplements I regimens I've been taking at varius times in my life and the reasons I've taken them.
 
-See [Shopping](shopping.md) for more products and links to research papers.
+See [Shopping](./shopping-lists/canada-shopping.md) for more products and links to research papers.
 
 ## Fix lipidic profile
 
