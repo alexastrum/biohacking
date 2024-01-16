@@ -65,9 +65,13 @@ How I'm using this book (1 month sprint):
 11. [ ] Be honest when you’re not able to pay attention
 12. Define your quality time and schedule it in.
 
+    - Already scheduling kids activities
+    - [ ] Schedule other time spent with loved ones
+    - [ ] Schedule 30m wellness activities
+
 ## FOCUS ON WHAT MATTERS
 
-### Get clear about what matters most
+### Jan 16: Get clear about what matters most
 
 1. Ask yourself ‘what matters most to me?’
 2. Express your values in a way that is deeply personal
