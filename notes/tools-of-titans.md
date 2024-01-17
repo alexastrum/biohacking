@@ -83,7 +83,8 @@ Perform a 5-day fast 1 times per year.
 - Make it longer, if possible.
 - Keep a refeeding journal.
 
-> If you don’t have cancer and you do a therapeutic fast 1 to 3 times per year, you could purge any precancerous cells that may be living in your body.
+> If you don’t have cancer and you do a therapeutic fast 1 to 3 times per year,
+> you could purge any precancerous cells that may be living in your body.
 
 #### Breakfast
 

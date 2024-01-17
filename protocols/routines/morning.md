@@ -8,22 +8,25 @@
    - Never delay or skip this.
      Can delay/skip any of the other tasks based on logistics.
    - Open courtains and/or max out the lights.
-   - Tidy up the room as needed.
+   - Tidy up the room.
 
-2. **Charcoal** detox. <1 minute.
+2. Detox. <1 minute.
 
-   - 1 capsule of activated charcoal per 10kg of body weight.
+   - 1 capsule of activated **charcoal** per 10kg of body weight.
 
 3. **Toilet business** <5 minutes.
 
 4. **Cold shower** <20 minutes under cold tap (generally 5 - 20 deg Celsius).
-   If sick or wide-awaken, gentler contrast shower, cold (20 seconds+) - hot (as long as needed) - cold (20 seconds+).
 
-   - Groom and shave as needed.
-   - Brush and water-floss teeth.
+   If sick or wide-awaken, gentler contrast shower:
+   cold (20 seconds+) - hot - cold (20 seconds+).
+
+   - Coconut oil pulling (swish in mouth for 10 minutes, then spit out).
+   - Groom and shave.
    - Wash hair 2 times per week. Use 2x shampoo, 1x conditioner.
    - Wash face with soap or spacialized face wash.
    - Wash body parts prone to bacteria / fungus with soap. Massage and/or scrub feet.
+   - Brush and water-floss teeth.
 
 5. **Positive affirmations** / meditation / keggel exercise.
    In front of the mirror, or outdoors. <10 minutes.
@@ -63,3 +66,7 @@
 10. Portion and take **supplements**. Measure biomarkers. <5 minutes
 
 11. **Journal** and plan the day. <30 minutes
+
+## Condiering adding
+
+- Tongue scraping.
