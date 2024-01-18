@@ -25,7 +25,8 @@ Most days, <10 mins.
 
 ## Gym
 
-1-4 days/week. Keeping them as short as possible, while focusing on getting close to VOMax.
+1-4 days/week. Keeping them as short as possible,
+while focusing on getting close to VOMax.
 
 Any combination of the following:
 
