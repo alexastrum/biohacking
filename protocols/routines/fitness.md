@@ -1,9 +1,12 @@
 # Fitness routine
 
-Exercise promotes muscles' production of lactate, a metabolic byproduct that increases the production of BDNF (brain-derived neurotrophic factor), a crucial player in brain and gut health.
+Exercise promotes muscles' production of lactate, a metabolic byproduct that
+increases the production of BDNF (brain-derived neurotrophic factor),
+a crucial player in brain and gut health.
 
 Other lifestyle factors, such as hot baths, sauna use, and meditation, and
-dietary components, such as omega-3 fatty acids, zinc, and dietary fiber, also contribute to BDNF production.
+dietary components, such as omega-3 fatty acids, zinc, and dietary fiber,
+also contribute to BDNF production.
 
 ## Morning
 
@@ -56,3 +59,8 @@ Most days, if near an appropriate body of water. ~60 days / year ATM. Any of the
 - <5m Swim
 - 10-60m Surfing
 - <10m SUP, optionally with Yoga poses
+
+## Barefoot
+
+- I’m bullish on being barefoot whenevr safe.
+- Sandals and thin-sole shoes are the next.
