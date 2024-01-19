@@ -208,7 +208,12 @@ Non-perishables that are not present at Costco or that are not needed in bulk.
 ---
 
 [^bulletproof]: According to Bulletproof Diet Roadmap
-[^viome]: According to personal [VIOME test](https://viomehq.sjv.io/alexastrum) results
+[^viome]:
+    According to personal [VIOME test](https://viomehq.sjv.io/alexastrum) results. _Jan 18 update:_
+
+    > Viome is offering 20% off site-wide on all Intelligence Tests and Solutions Bundles.
+    > Use code **RESOLUTION** at checkout.
+
 [^viome-tips]: According to general VIOME recommendation
 [^dirty-dozen]: [Dirty Dozen](https://www.ewg.org/foodnews/full-list.php)
 [^clean-15]: [Clean 15](https://www.ewg.org/foodnews/full-list.php)

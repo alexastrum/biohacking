@@ -167,3 +167,22 @@ Eat in moderation:
 - Most **starches** (Potatoes [^bulletproof], Breadfruit [^viome])
 - **All processed meats** [^bulletproof]
 - (Non-grass-fed) **diary** (including Milk, Yogurt and Cheese) from USA/Canada [^bulletproof] [^function]
+
+---
+
+[^bulletproof]: According to Bulletproof Diet Roadmap
+[^viome]:
+    According to personal [VIOME test](https://viomehq.sjv.io/alexastrum) results. _Jan 18 update:_
+
+    > Viome is offering 20% off site-wide on all Intelligence Tests and Solutions Bundles.
+    > Use code **RESOLUTION** at checkout.
+
+[^viome-tips]: According to general VIOME recommendation
+[^clean-15]: [Clean 15](https://www.ewg.org/foodnews/full-list.php)
+[^wild-salmon]: [Wild vs farmed salmon](https://www.healthline.com/nutrition/wild-vs-farmed-salmon#Polyunsaturated-fat-content)
+[^grass-fed-butter]: [Why butter is yellow](https://www.businessinsider.com/why-is-butter-yellow-2016-3)
+[^no-grains]: [BULLETPROOF GUIDE TO GLUTEN AND GRAINS](https://www.bulletproof.com/diet-articles/bulletproof-diet/the-complete-bulletproof-guide-to-grains/)
+[^function]: According to personal [Function Health test](https://functionhealth.typeform.com/to/lMGugr7m)
+[^metformin]: [Metformin Is a Putative Anti-Aging Drug](https://pubmed.ncbi.nlm.nih.gov/34421827/)
+[^jenvel]: [Protocol](https://jenvel.co/) by @itsJenvel, 4th place on on <https://rejuvenationolympics.com>
+[^blueprint]: [Blueprint by Bryan Johnson](https://cdn.shopify.com/s/files/1/0772/3129/2701/files/Product_Nutrition_Facts.pdf?v=1704325409)

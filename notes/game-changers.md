@@ -29,7 +29,7 @@ How I used this book (2 months sprint):
 
 - Go through your closet and put the favourite and/or most compatible stuff in the front.
 
-## TODO: Clean-up the rest
+## TODO: Clean-up the rest and add dates
 
 **Recommended Listening**
 
@@ -846,8 +846,13 @@ Action Items
   Brain Octane oil, or MCT oil) instead. Use olive oil on finished
   dishes, not for cooking.
 - Adjust your diet if you get hungry within five hours of eating.
-- Order a Viome test, the best way to see what your food is doing
-  to your gut bacteria: [http://www.viome.com.](http://www.viome.com.)
+- Order a [VIOME test](https://viomehq.sjv.io/alexastrum),
+  the best way to see what your food is doing
+  to your gut bacteria. _Jan 18 update:_
+
+  > Viome is offering 20% off site-wide on all Intelligence Tests and Solutions Bundles.
+  > Use code **RESOLUTION** at checkout.
+
 - Consume more omega-3s and fish oils, but don’t go nuts.
 - Get adequate but not excessive protein from healthy animals
   or high- leucine vegetables, about 0.5 grams per pound of body
