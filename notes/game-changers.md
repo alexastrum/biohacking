@@ -895,9 +895,6 @@ Action Items
 - Avoid antibiotics whenever possible, as well as meat and other
   products from animals that were fed antibiotics.
 - Eat fermented foods that agree with you.
-- Consider a Viome test from [http://www.viome.com/bulletproof](http://www.viome.com/bulletproof) to see
-  what’s growing in your gut and what tweaks you can make in
-  your diet.
 
 **Recommended Listening**
 
@@ -966,8 +963,6 @@ Action Items
   functional medicine doctor is a great investment. Ask for all
   hormones, full thyroid, inflammation markers, and nutrient
   analysis, plus whatever else your doctor thinks is helpful.
-- Have your poop tested by Viome (www.viome.com) to see what
-  is going on in your gut.
 
 **Recommended Listening**
 
