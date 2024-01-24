@@ -22,7 +22,9 @@ TODO
 
 ## Laeky gut
 
-- L- Glutamine ($23) from Pure Encapsalations to prevent or heal intestinal permeability/leaky gut [^jenvel]
+To prevent or heal intestinal permeability.
+
+- [L- Glutamine](https://amzn.to/47HRE69) [^jenvel]
 
 ## Tooth health
 
@@ -34,6 +36,19 @@ TODO
 - Tumeric [^jenvel]
 - Ginger [^jenvel]
 
+## To increase Testosterone
+
+- Ashwaghanda root [^michal]
+
+## Individual supplements
+
+### Berberine
+
+While Metformin primarily works by suppressing glucose production and enhancing
+insulin sensitivity, Berberine achieves similar results by activating AMPK and
+improving insulin response.
+
 ---
 
 [^jenvel]: [Protocol](https://jenvel.co/) by @itsJenvel, 4th place on on <https://rejuvenationolympics.com>
+[^michal]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6438434/

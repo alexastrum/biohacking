@@ -29,6 +29,7 @@ Observed structure for each of my 1:30h sleep cycles (duration => type):
 
 ## Ideal sleep environment
 
+- No alcohol after dinner and no more than 1 unit a day.
 - Dark room courtains, [sleep mask](https://amzn.to/47DdAzm) when traveling
 - Earplugs: [foam](https://amzn.to/3vv4Aih) or [silicone](https://amzn.to/3HeV19N)
 - Apple Watch or Aura ring for tracking

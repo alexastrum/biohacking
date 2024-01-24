@@ -4,7 +4,9 @@ Hi! I'm Alex.
 
 This repo is a collection of personal notes on biohacking (wellness, longevity, etc).
 
-## Objective
+## Mission
+
+### Personal
 
 Similar to [Jacob Lindberg](./reviews/influencers/jacoblindberg.md),
 maximize the area under the curve where x=time and y=health.
@@ -13,6 +15,10 @@ More experimental, aligned with [Dave's biohacking laws](./notes/game-changers.m
 
 Contrast this with (how I understand) [Bryan’s objective of maximizing x](https://protocol.bryanjohnson.com/) or
 Peter Attia’s objective of maximizing the area under the curve of your final decade.
+
+### Business
+
+An automated system of **personalized logevity protocols** with automated validation and correction based on realtime data.
 
 ## Principles
 
