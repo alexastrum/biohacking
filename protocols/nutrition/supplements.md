@@ -40,6 +40,11 @@ To prevent or heal intestinal permeability.
 
 - Ashwaghanda root [^michal]
 
+## Improve mood
+
+- NAC [^nac-mood]
+- Ashwagandha [^ashwagandha-mood]
+
 ## Individual supplements
 
 ### Berberine
@@ -52,3 +57,5 @@ improving insulin response.
 
 [^jenvel]: [Protocol](https://jenvel.co/) by @itsJenvel, 4th place on on <https://rejuvenationolympics.com>
 [^michal]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6438434/
+[^nac-mood]: [The Impact of N-acetylcysteine on Major Depression](https://pubmed.ncbi.nlm.nih.gov/37119225/)
+[^ashwagandha-mood]: [Effects of Withania somnifera on Stress](https://pubmed.ncbi.nlm.nih.gov/34254920/), [Can Ashwagandha Be Beneficial in Treating Depression?](https://pubmed.ncbi.nlm.nih.gov/35139495/)
