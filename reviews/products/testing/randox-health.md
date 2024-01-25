@@ -1,0 +1,30 @@
+# Radox Health
+
+Promising testing provider and lab.
+
+Decent in-parson testing packages in LA, California.
+
+Convenient at-home testing packages, privided as part of the
+[Blueprint 5000](./bp5000.md) study. $499 package provides better value vs $999 one.
+
+OK pricing, though slightly higher compare with [Function Health](./function-health.md).
+If you're having Fuction Health tests, you can skip Randox, since there is an 80%
+overlap. The tests missing from Function Health, included in the $499 package:
+
+1. Cystatin C
+2. CPK (Creatine phosphokinase)
+3. Total IgE (though it offers more elective detailed alergy screening)
+4. Vit C serum
+5. B12 total serum
+6. Folate serum
+
+The tests missing from Function Health, included in the $999 package:
+
+7. Vit E alpha tocopherol serum
+8. Apolipoprotein A-1
+9. C peptide
+10. Urate
+11. Amylase
+12. Beta Carotene
+13. Magnesium rbc (Mg in serum is included in the basic panel)
+14. Vitamin A
