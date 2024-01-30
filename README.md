@@ -18,7 +18,7 @@ or Peter Attia’s objective of maximizing the area under the curve of your fina
 
 ### Business
 
-An automated system of **personalized logevity protocols** with automated
+An automated system of **personalized logevity protocols** with gen AI
 validation and correction based on realtime data.
 
 ## Principles
