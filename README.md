@@ -9,7 +9,7 @@ This repo is a collection of personal notes on biohacking (wellness, longevity, 
 ### Personal
 
 Similar to [Jacob Lindberg](./reviews/influencers/jacoblindberg.md),
-maximize the area under the curve where x=time and y=health.
+maximize the area under the curve where x=time and y=healthy **fun**.
 
 More experimental, aligned with [Dave's biohacking laws](./notes/game-changers.md).
 
