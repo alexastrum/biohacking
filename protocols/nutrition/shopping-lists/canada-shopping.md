@@ -226,7 +226,7 @@ Non-perishables that are not present at Costco or that are not needed in bulk.
 [^bacon]: [Science of Bacon](https://daveasprey.com/is-bacon-healthy-paleo-pork)
 [^alkaline]: [Alkaline electrolyzed water](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6352572/)
 [^no-grains]: [BULLETPROOF GUIDE TO GLUTEN AND GRAINS](https://www.bulletproof.com/diet-articles/bulletproof-diet/the-complete-bulletproof-guide-to-grains/)
-[^function]: According to personal [Function Health test](https://functionhealth.typeform.com/to/lMGugr7m)
+[^function]: According to personal [Function Health test](https://www.functionhealth.com/early-access?code=ALUNGU10)
 [^metformin]: [Metformin Is a Putative Anti-Aging Drug](https://pubmed.ncbi.nlm.nih.gov/34421827/)
 [^vit-c]: [What is Vitamin C](https://www.bulletproof.com/supplement-articles/what-is-vitamin-c-benefits/)
 [^mitocondria]: [Understanding D-Ribose and Mitochondrial Function](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5959283/)
