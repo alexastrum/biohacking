@@ -151,7 +151,7 @@ I excluded products that I have personal allergies or sensitivities to.
 - [Vitamin C](https://www.costco.ca/kirkland-signature-timed-release-vitamin-c-1000-mg---500-tablets.product.100338652.html) [^vit-c]
 - [Calcium + Magnesium](https://www.costco.ca/jamieson-calcium-magnesium-with-vitamin-d3%2c-500-caplets.product.4000150777.html)
 
-<!-- ## Amazon
+## Amazon
 
 Non-perishables that are not present at Costco or that are not needed in bulk.
 
