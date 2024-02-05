@@ -55,7 +55,7 @@ While Metformin primarily works by suppressing glucose production and enhancing
 insulin sensitivity, Berberine achieves similar results by activating AMPK and
 improving insulin response.
 
-## <!--
+## References
 
 [^jenvel]: [Protocol](https://jenvel.co/) by @itsJenvel, 4th place on on <https://rejuvenationolympics.com>
 [^michal]: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6438434/>

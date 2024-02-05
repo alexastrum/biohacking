@@ -3,7 +3,7 @@
 In each category, products sorted descending from most nutrient-dense to least,
 based on my personal research and experience.
 
-## Oils
+<!-- ## Oils
 
 Eat as much as you want:
 
@@ -27,7 +27,7 @@ Eat in moderation:
 
 - Pistachios
 
-<!-- ## Fresh Produce
+## Fresh Produce
 
 Anything that's green is good. Eat as much as you want.
 
@@ -166,7 +166,7 @@ Eat in moderation:
 - **All grains** [^viome] (bad to worst: Quinoa, Oats, Hemp Hearts, Kamut, Barley, Rye, Triticale, Corn, Weat) [^no-grains] [^function]
 - Most **starches** (Potatoes [^bulletproof], Breadfruit [^viome])
 - **All processed meats** [^bulletproof]
-- (Non-grass-fed) **diary** (including Milk, Yogurt and Cheese) from USA/Canada [^bulletproof] [^function] -->
+- (Non-grass-fed) **diary** (including Milk, Yogurt and Cheese) from USA/Canada [^bulletproof] [^function]
 
 ---
 
@@ -186,3 +186,4 @@ Eat in moderation:
 [^metformin]: [Metformin Is a Putative Anti-Aging Drug](https://pubmed.ncbi.nlm.nih.gov/34421827/)
 [^jenvel]: [Protocol](https://jenvel.co/) by @itsJenvel, 4th place on on <https://rejuvenationolympics.com>
 [^blueprint]: [Blueprint by Bryan Johnson](https://cdn.shopify.com/s/files/1/0772/3129/2701/files/Product_Nutrition_Facts.pdf?v=1704325409)
+-->
