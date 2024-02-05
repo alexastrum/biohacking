@@ -3,7 +3,7 @@
 In each category, products sorted descending from most nutrient-dense to least,
 based on my personal research and experience.
 
-<!-- ## Oils
+## Oils
 
 Eat as much as you want:
 
@@ -171,12 +171,7 @@ Eat in moderation:
 ---
 
 [^bulletproof]: According to Bulletproof Diet Roadmap
-[^viome]:
-    According to personal [VIOME test](https://viomehq.sjv.io/alexastrum) results. _Jan 18 update:_
-
-    > Viome is offering 20% off site-wide on all Intelligence Tests and Solutions Bundles.
-    > Use code **RESOLUTION** at checkout.
-
+[^viome]: According to personal [VIOME test](https://viomehq.sjv.io/alexastrum) results.
 [^viome-tips]: According to general VIOME recommendation
 [^clean-15]: [Clean 15](https://www.ewg.org/foodnews/full-list.php)
 [^wild-salmon]: [Wild vs farmed salmon](https://www.healthline.com/nutrition/wild-vs-farmed-salmon#Polyunsaturated-fat-content)
@@ -186,4 +181,3 @@ Eat in moderation:
 [^metformin]: [Metformin Is a Putative Anti-Aging Drug](https://pubmed.ncbi.nlm.nih.gov/34421827/)
 [^jenvel]: [Protocol](https://jenvel.co/) by @itsJenvel, 4th place on on <https://rejuvenationolympics.com>
 [^blueprint]: [Blueprint by Bryan Johnson](https://cdn.shopify.com/s/files/1/0772/3129/2701/files/Product_Nutrition_Facts.pdf?v=1704325409)
--->
