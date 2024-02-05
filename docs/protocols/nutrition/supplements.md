@@ -6,7 +6,7 @@ life and the reasons I've taken them.
 See [Shopping](./shopping-lists/canada-shopping.md) for more products and links
 to research papers.
 
-<!-- ## Fix lipidic profile
+## Fix lipidic profile
 
 Lower LDL and ApoB, increase HDL, and improve Omega3/Omega6 ratio.
 
@@ -36,7 +36,7 @@ To prevent or heal intestinal permeability.
 
 - Ashwaghanda root [^jenvel]
 - Tumeric [^jenvel]
-- Ginger [^jenvel] -->
+- Ginger [^jenvel]
 
 ## To increase Testosterone
 
