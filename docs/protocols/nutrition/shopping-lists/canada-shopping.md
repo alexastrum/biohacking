@@ -4,7 +4,7 @@ Products sorted descending from most nutrient-dense.
 
 Inspiration: [Bulletproof Diet Roadmap](https://daveasprey.com/wp-content/uploads/2021/02/Dave-Asprey-Diet-and-Fasting-Roadmap-2021.pdf)
 
-<!-- ## Local organic farm
+## Local organic farm
 
 Primary source for pastured meats, diary, seasonal fresh food.
 
@@ -151,7 +151,7 @@ I excluded products that I have personal allergies or sensitivities to.
 - [Vitamin C](https://www.costco.ca/kirkland-signature-timed-release-vitamin-c-1000-mg---500-tablets.product.100338652.html) [^vit-c]
 - [Calcium + Magnesium](https://www.costco.ca/jamieson-calcium-magnesium-with-vitamin-d3%2c-500-caplets.product.4000150777.html)
 
-## Amazon
+<!-- ## Amazon
 
 Non-perishables that are not present at Costco or that are not needed in bulk.
 
@@ -170,7 +170,7 @@ Non-perishables that are not present at Costco or that are not needed in bulk.
 ## Other sources
 
 - [99% Dark Chocolate](https://chocosoltraders.com/collections/coffee-drinkingchocolate/products/99-eating-chocolate-stay-home-stock-up-bulk-deal) [^bulletproof]
-- [Full-fat A2 Milk](https://www.a2milk.ca/products/3-25-homogenized-milk) [^a2-milk] -->
+- [Full-fat A2 Milk](https://www.a2milk.ca/products/3-25-homogenized-milk) [^a2-milk]
 
 ## Avoid
 
