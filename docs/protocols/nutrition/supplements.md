@@ -1,10 +1,12 @@
 # Supplements
 
-This is a list of supplements I regimens I've been taking at varius times in my life and the reasons I've taken them.
+This is a list of supplements I regimens I've been taking at varius times in my
+life and the reasons I've taken them.
 
-See [Shopping](./shopping-lists/canada-shopping.md) for more products and links to research papers.
+See [Shopping](./shopping-lists/canada-shopping.md) for more products and links
+to research papers.
 
-## Fix lipidic profile
+<!-- ## Fix lipidic profile
 
 Lower LDL and ApoB, increase HDL, and improve Omega3/Omega6 ratio.
 
@@ -34,7 +36,7 @@ To prevent or heal intestinal permeability.
 
 - Ashwaghanda root [^jenvel]
 - Tumeric [^jenvel]
-- Ginger [^jenvel]
+- Ginger [^jenvel] -->
 
 ## To increase Testosterone
 
@@ -53,9 +55,9 @@ While Metformin primarily works by suppressing glucose production and enhancing
 insulin sensitivity, Berberine achieves similar results by activating AMPK and
 improving insulin response.
 
----
+## <!--
 
 [^jenvel]: [Protocol](https://jenvel.co/) by @itsJenvel, 4th place on on <https://rejuvenationolympics.com>
-[^michal]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6438434/
+[^michal]: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6438434/>
 [^nac-mood]: [The Impact of N-acetylcysteine on Major Depression](https://pubmed.ncbi.nlm.nih.gov/37119225/)
-[^ashwagandha-mood]: [Effects of Withania somnifera on Stress](https://pubmed.ncbi.nlm.nih.gov/34254920/), [Can Ashwagandha Be Beneficial in Treating Depression?](https://pubmed.ncbi.nlm.nih.gov/35139495/)
+[^ashwagandha-mood]: [Effects of Withania somnifera on Stress](https://pubmed.ncbi.nlm.nih.gov/34254920/), [Can Ashwagandha Be Beneficial in Treating Depression?](https://pubmed.ncbi.nlm.nih.gov/35139495/) -->
