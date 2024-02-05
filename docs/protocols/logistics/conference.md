@@ -1,4 +1,4 @@
-# How to run a Conference
+# Hosting a Conference
 
 ## Publishing materials
 
