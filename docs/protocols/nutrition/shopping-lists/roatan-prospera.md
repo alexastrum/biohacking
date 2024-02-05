@@ -168,7 +168,7 @@ Eat in moderation:
 - **All processed meats** [^bulletproof]
 - (Non-grass-fed) **diary** (including Milk, Yogurt and Cheese) from USA/Canada [^bulletproof] [^function]
 
----
+## References
 
 [^bulletproof]: According to Bulletproof Diet Roadmap
 [^viome]: According to personal [VIOME test](https://viomehq.sjv.io/alexastrum) results.
