@@ -27,7 +27,7 @@ Eat in moderation:
 
 - Pistachios
 
-## Fresh Produce
+<!-- ## Fresh Produce
 
 Anything that's green is good. Eat as much as you want.
 
@@ -148,7 +148,7 @@ Eat in moderation:
 - Filtered or fresh spa water
 - Coffee (see [Bulletproof Coffee](../recipes/bulletproof-coffee.md) recipe)
 
-<!-- ## Minimize and avoid
+## Minimize and avoid
 
 - **All Sugar**, (Agave) Nectar, Fructose, (Mapple) Syrop, Honey [^viome], Molases [^viome], dried fruits [^bulletproof] [^function]
 - Sweet fruits (Honeydew, Cantaloupe) [^bulletproof]
