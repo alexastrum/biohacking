@@ -4,7 +4,7 @@ Products sorted descending from most nutrient-dense.
 
 Inspiration: [Bulletproof Diet Roadmap](https://daveasprey.com/wp-content/uploads/2021/02/Dave-Asprey-Diet-and-Fasting-Roadmap-2021.pdf)
 
-## Local organic farm
+<!-- ## Local organic farm
 
 Primary source for pastured meats, diary, seasonal fresh food.
 
@@ -170,7 +170,7 @@ Non-perishables that are not present at Costco or that are not needed in bulk.
 ## Other sources
 
 - [99% Dark Chocolate](https://chocosoltraders.com/collections/coffee-drinkingchocolate/products/99-eating-chocolate-stay-home-stock-up-bulk-deal) [^bulletproof]
-- [Full-fat A2 Milk](https://www.a2milk.ca/products/3-25-homogenized-milk) [^a2-milk]
+- [Full-fat A2 Milk](https://www.a2milk.ca/products/3-25-homogenized-milk) [^a2-milk] -->
 
 ## Avoid
 
