@@ -148,7 +148,7 @@ Eat in moderation:
 - Filtered or fresh spa water
 - Coffee (see [Bulletproof Coffee](../recipes/bulletproof-coffee.md) recipe)
 
-## Minimize and avoid
+<!-- ## Minimize and avoid
 
 - **All Sugar**, (Agave) Nectar, Fructose, (Mapple) Syrop, Honey [^viome], Molases [^viome], dried fruits [^bulletproof] [^function]
 - Sweet fruits (Honeydew, Cantaloupe) [^bulletproof]
@@ -166,7 +166,7 @@ Eat in moderation:
 - **All grains** [^viome] (bad to worst: Quinoa, Oats, Hemp Hearts, Kamut, Barley, Rye, Triticale, Corn, Weat) [^no-grains] [^function]
 - Most **starches** (Potatoes [^bulletproof], Breadfruit [^viome])
 - **All processed meats** [^bulletproof]
-- (Non-grass-fed) **diary** (including Milk, Yogurt and Cheese) from USA/Canada [^bulletproof] [^function]
+- (Non-grass-fed) **diary** (including Milk, Yogurt and Cheese) from USA/Canada [^bulletproof] [^function] -->
 
 ---
 
