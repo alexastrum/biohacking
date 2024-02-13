@@ -16,7 +16,8 @@ Lower LDL and ApoB, increase HDL, and improve Omega3/Omega6 ratio.
 ## Increase low iron, % saturation, and hemoglobin
 
 - [Iron supplements](https://amzn.to/3RLm6Gn) [^function]
-- [Vitamin C](https://www.costco.ca/kirkland-signature-timed-release-vitamin-c-1000-mg---500-tablets.product.100338652.html) [^function]
+- [Vitamin C](https://www.costco.ca/kirkland-signature-timed-release-vitamin-c-1000-mg---500-tablets.product.100338652.html)
+  [^function]
 
 ## Cell senescence
 
@@ -61,3 +62,4 @@ improving insulin response.
 [^michal]: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6438434/>
 [^nac-mood]: [The Impact of N-acetylcysteine on Major Depression](https://pubmed.ncbi.nlm.nih.gov/37119225/)
 [^ashwagandha-mood]: [Effects of Withania somnifera on Stress](https://pubmed.ncbi.nlm.nih.gov/34254920/), [Can Ashwagandha Be Beneficial in Treating Depression?](https://pubmed.ncbi.nlm.nih.gov/35139495/) -->
+[^function]: According to personal [Function Health test](https://www.functionhealth.com/early-access?code=ALUNGU10)

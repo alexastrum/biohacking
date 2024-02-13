@@ -65,3 +65,12 @@ Most days, if near an appropriate body of water. ~60 days / year ATM. Any of the
 
 - I’m bullish on being barefoot whenevr safe.
 - Sandals and thin-sole shoes are the next.
+
+## Mechanical vibration
+
+Just like physical exercise, and low frequency mechanical vibration, higher frequency
+vibration (low-frequency ultrasound) might improve cell healthspan.
+
+Several [early](https://www.biorxiv.org/content/10.1101/2022.12.08.519320v2) [studies](https://www.lifespan.io/news/ultrasound-reverses-senescence-in-cells)
+claim to have found impressive way to solve the senescent cell problem:
+by rejuvenating them with ultrasound.
