@@ -1,8 +1,12 @@
 # Meals
 
+My [optimal time-restricted eating interval](https://pubmed.ncbi.nlm.nih.gov/37838299/):
+
+> Males with high blood pressure risk: 6-8 hours, concluded before 6-8 p.m.
+
 Every day, targeting 2-3 large meals per day, with little to no snacking in between.
 
-- 9:30 - 10:30 [**Breakfast**](./breakfast.md), optional
+- 9:30 - 10:30 [**Breakfast**](./breakfast.md), skipped on most days
 
 - 13:30 - 14:30 **Lunch**
 
