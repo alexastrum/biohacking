@@ -1,4 +1,4 @@
-# Magnus Magnetica Hero PEMF Review
+# Magnus Magnetica Hero PEMF
 
 Thank you, Francesca, for allowing me to try your [PEMF device](https://www.magnusmagnetica.com/hero).
 
