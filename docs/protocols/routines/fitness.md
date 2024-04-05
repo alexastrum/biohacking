@@ -31,7 +31,8 @@ while focusing on getting close to VOMax.
 Any combination of the following:
 
 - <5m warmup
-- HIIT
+- HIIT: 30s (min) - 2m (max) in zone 5.
+  Use a [heart monitor](https://amzn.to/3VJIPWT) to ensure you're in the right zone.
 
   - <30m HIIT or Tabata lesson on Peton bike.
     Focus on hittinh VOMax

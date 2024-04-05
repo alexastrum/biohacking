@@ -41,3 +41,4 @@ Observed structure for each of my 1:30h sleep cycles (duration => type):
 - Temperature
   - 21 deg Celsius, when sick
   - 19 deg, when healthy
+- [Grounded](https://amzn.to/4cO9Y0X)

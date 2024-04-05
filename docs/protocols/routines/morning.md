@@ -26,7 +26,7 @@
    - Wash hair 2 times per week. Use 2x shampoo, 1x conditioner.
    - Wash face with soap or spacialized face wash.
    - Wash body parts prone to bacteria / fungus with soap. Massage and/or scrub feet.
-   - Brush and water-floss teeth.
+   - Brush and water-floss teeth with [natural mouthwash](https://amzn.to/49uqwZ0).
 
 5. **Positive affirmations** / meditation / keggel exercise.
    In front of the mirror, or outdoors. <10 minutes.
