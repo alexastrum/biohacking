@@ -6,6 +6,8 @@ life and the reasons I've taken them.
 See [Shopping](./shopping-lists/canada-shopping.md) for more products and links
 to research papers.
 
+- [Activated charcoal](https://amzn.to/3U59psl)
+
 - Fisetin 500mg - 1x every 2 days
 - Nicotinamide Mononucleotide (NMN) 500mg - 2x per day
 - Berberine 1,000mg
